@@ -193,4 +193,5 @@ print(f"CSV metadata baru disimpan di: {CSV_OUTPUT}")
 print("\n--- Langkah Anda Selanjutnya ---")
 print("1. Cek 'dataset_hasil_pipeline.csv'. Kolom 'kelas', 'split', dan 'catatan' seharusnya sudah terisi otomatis.")
 print("2. (JIKA 'split' KOSONG) Harap isi kolom 'split' di 'dataset_raw.csv' Anda, lalu jalankan ulang skrip ini.")
+
 print("3. Jalankan skrip 'augmentasi.py'. Skrip itu sekarang akan bekerja TANPA perlu edit manual.")
